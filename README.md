@@ -1,5 +1,5 @@
 <div align="center">
-<img src="IMG_2738.JPG" align="center" style="width: 50%" />
+<img src="IMG_2738.JPG" align="center" style="width: 40%" />
 </div>  
   
 
@@ -30,15 +30,13 @@
 
 <br/>  
 
+## Github Stats
 
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide_border=true&layout=compact" align="center" style="width: 60%" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>  
-
+<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square)  
+
+
 
   
 
