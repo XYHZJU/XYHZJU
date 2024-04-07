@@ -35,6 +35,7 @@
 <img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XYHZJU&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Visiters
 
