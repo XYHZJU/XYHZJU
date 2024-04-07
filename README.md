@@ -37,7 +37,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
 
 ## Recent Visiters
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5Of3KZA90aMXfs6FzC2HkFfOpoV2crHk66eIGIxUP_s&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bz5e"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5Of3KZA90aMXfs6FzC2HkFfOpoV2crHk66eIGIxUP_s&cl=ffffff" /></a>
 
 
 
