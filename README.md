@@ -32,11 +32,20 @@
 
 ## Github Stats
 
-<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook&card_width=320" />
+</a>
+
+
 
 ## Working Time
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YuhanXie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Visiters
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
