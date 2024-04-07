@@ -30,18 +30,13 @@
 
 <br/> 
 
-## try
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
-</div>
-
 ## Github Stats
 
 <div class='container'>
-<img style="height: 200; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
+<img style="height: "200"; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
 &nbsp;
 &nbsp;
-<img style="height: 200; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&layout=compact&hide=jupyter%20notebook&card_width=320" /></div>
+<img style="height: "200"; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&layout=compact&hide=jupyter%20notebook&card_width=320" /></div>
 </div>
 
 
@@ -49,8 +44,7 @@
 ## Working Time
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YuhanXie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Recent Visiters
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
