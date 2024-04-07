@@ -32,8 +32,8 @@
 
 ## Github Stats
 
-<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
 
 ## Recent Visiters
