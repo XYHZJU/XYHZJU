@@ -28,7 +28,12 @@
 </div>
 
 
-<br/>  
+<br/> 
+
+## try
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&layout=compact&hide=jupyter%20notebook&card_width=320" />
+</div>
 
 ## Github Stats
 
