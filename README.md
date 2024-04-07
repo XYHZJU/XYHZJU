@@ -34,6 +34,8 @@
 
 <img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+## Working Time
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YuhanXie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Visiters
