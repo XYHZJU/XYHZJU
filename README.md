@@ -33,10 +33,10 @@
 ## Github Stats
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&layout=compact&hide=jupyter%20notebook&card_width=320" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&layout=compact&hide=jupyter%20notebook&card_width=320" /></div>
 </div>
 
 
