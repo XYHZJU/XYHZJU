@@ -33,7 +33,7 @@
 ## Github Stats
 
 <img align="left" alt="Yuhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XYHZJU&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYHZJU&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views counter](https://komarev.com/ghpvc/?username=XYHZJU&&style=flat-square) 
 
 ## Recent Visiters
