@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Yuhan, a master student of KTH and an exchange student of EPFL, majoring robotics.</div>  
+### <div align="center">I'm Yuhan, a PhD student from EPFL, working on Brain Machine Interface</div>  
   
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning, especially for application in time series.   
+- 🌱 I’m currently learning Machine Learning, Deep Learning, especially for application in medical time series.   
   
 
 - My publication at [ICPS2023 ](https://ieeexplore.ieee.org/document/10128029), [ICLR2024 workshop ](https://openreview.net/pdf?id=S523wIxRTe)  
